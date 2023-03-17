@@ -1,0 +1,23 @@
+{
+  "background_color": "#ffffff",
+  "description": "Site para pets",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "petamigo.netlify",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "petamigo.netlify",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "categories": [
+    "security",
+    "social"
+  ],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "images/doge.png"
+    }
+  ],
+  "shortcuts": []
+}
